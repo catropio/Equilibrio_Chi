@@ -123,7 +123,7 @@ img{max-width: 100%}
 }
 .menu ul li {
     display: inline-block;
-    padding-left: 40px;
+    padding-left: 25px;
     position: relative
 }
 .menu ul li a {
@@ -1242,6 +1242,21 @@ img{max-width: 100%}
   padding: 150px 0 150px;
   position: relative;
 }
+.breadcrumbs-faciales {
+  background: rgba(0, 0, 0, 0) url("images/faciales.jpg") no-repeat scroll center center / cover ;
+  padding: 150px 0 150px;
+  position: relative;
+}
+.breadcrumbs-capacitacion {
+  background: rgba(0, 0, 0, 0) url("images/capacitacion.jpg") no-repeat scroll center center / cover ;
+  padding: 150px 0 150px;
+  position: relative;
+}
+.breadcrumbs-aparatologia {
+  background: rgba(0, 0, 0, 0) url("images/aparatologia.jpg") no-repeat scroll center center / cover ;
+  padding: 150px 0 150px;
+  position: relative;
+}
 .breadcrumbs-menu {
   background: rgba(255, 255, 255, 0.7) none repeat scroll 0 0;
   bottom: 3px;
@@ -1347,6 +1362,7 @@ img{max-width: 100%}
           transition-duration: 0.5s;
   visibility: hidden;
 }
+
 .single-team:hover .team-hover {
    opacity: 1;
    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
