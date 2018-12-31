@@ -1228,7 +1228,7 @@ img{max-width: 100%}
   position: relative;
 }
 .breadcrumbs-nosotros {
-  background: rgba(0, 0, 0, 0) url("images/nosotros.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("images/stock/nosotros2.jpg") no-repeat scroll center center / cover ;
   padding: 150px 0 150px;
   position: relative;
 }
@@ -1247,13 +1247,18 @@ img{max-width: 100%}
   padding: 150px 0 150px;
   position: relative;
 }
+.breadcrumbs-tfaciales {
+  background: rgba(0, 0, 0, 0) url("images/stock/tfaciales.jpg") no-repeat scroll center center / cover ;
+  padding: 150px 0 150px;
+  position: relative;
+}
 .breadcrumbs-capacitacion {
   background: rgba(0, 0, 0, 0) url("images/capacitacion.jpg") no-repeat scroll center center / cover ;
   padding: 150px 0 150px;
   position: relative;
 }
 .breadcrumbs-aparatologia {
-  background: rgba(0, 0, 0, 0) url("images/aparatologia.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("images/stock/aparatologia.jpg") no-repeat scroll center center / cover ;
   padding: 150px 0 150px;
   position: relative;
 }
